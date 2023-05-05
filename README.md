@@ -1,3 +1,5 @@
-Hi I'm Aman Kaif, currently a first year studying CSE at NIIT University.
-- learning python, CSS and Kotlin, being the most comfortable in python.
-- up for learning anything new especially ML or AI as that seems to peak my interest.
+Hello I'm Aman Kaif, currently a third year Data Science B.tech undergrad at NIIT University.
+
+While my main field of interest is Artificial Intelligence and Statistics, I also enjoy learning full stack software development.
+
+Languages I'm comfortable in: Python, R, Javascript, Java, Dart.
